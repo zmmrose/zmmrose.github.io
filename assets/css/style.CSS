@@ -16,9 +16,9 @@ article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup, 
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
-	margin: 10;
-	padding: 10;
-	border: 10;
+	margin: 0;
+	padding: 0;
+	border: 0;
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
@@ -59,8 +59,8 @@ hr {
 html, body {
 	height: 100%;
 	width: 100%;
-	padding: 0;
-	margin: 0;
+	padding: 20;
+	margin: 10;
 }
 
 body {	
