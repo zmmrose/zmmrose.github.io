@@ -64,7 +64,6 @@ html, body {
 }
 
 body.main {	
-	background-image:linear-gradient(red,blue);
 	margin:    10;
     max-width: 920px;
 }
