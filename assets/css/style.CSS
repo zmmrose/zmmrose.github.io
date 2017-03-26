@@ -59,12 +59,12 @@ hr {
 html, body {
 	height: 100%;
 	width: 100%;
-	padding: 20;
-	margin: 10;
+	padding: 0;
+	margin: 0;
 }
 
-body {	
-	margin:    0 auto;
+body.main {	
+	margin:    10;
     max-width: 920px;
 }
 
