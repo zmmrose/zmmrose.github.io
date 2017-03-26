@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+
+
+## Theme set to Jekyll midnight
+
+Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/zmmrose/zmmrose.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
