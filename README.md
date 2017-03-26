@@ -1,6 +1,6 @@
 
 
-## Theme set to Jekyll midnight
+## This is the home page it seems?
 
 Welcome to GitHub Pages
 
